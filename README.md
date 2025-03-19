@@ -28,6 +28,3 @@ streamlit run app.py
 http://localhost:8501
 ```
 
-
-# **但建议使用步骤 A) 以获得更好的体验..**
-
