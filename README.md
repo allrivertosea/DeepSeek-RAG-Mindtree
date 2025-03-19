@@ -2,7 +2,7 @@
 
 <img src="./assets/run.png" width=800px>
 
-Mindtree-RAG leverages DeepSeek-7B, BM25, FAISS, Neural Reranking (Cross-Encoder), GraphRAG, and Chat History Integration to efficiently retrieve information from PDFs, DOCX, and TXT files with speed, accuracy, and explainability.
+Mindtree-RAG leverages DeepSeek-R1:7B, BM25, FAISS, Neural Reranking (Cross-Encoder), GraphRAG, and Chat History Integration to efficiently retrieve information from PDFs, DOCX, and TXT files with speed, accuracy, and explainability.
 
 
 ### **Clone the Repository & Install Dependencies**
